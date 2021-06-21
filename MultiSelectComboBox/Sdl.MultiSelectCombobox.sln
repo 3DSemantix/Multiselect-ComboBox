@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdl.MultiSelectComboBox", "Sdl.MultiSelectComboBox\Sdl.MultiSelectComboBox.csproj", "{9B3DCB00-47E4-4DB5-A422-28D1733EF177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semantix.Sdl.MultiSelectComboBox", "Sdl.MultiSelectComboBox\Semantix.Sdl.MultiSelectComboBox.csproj", "{9B3DCB00-47E4-4DB5-A422-28D1733EF177}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sdl.MultiSelectComboBox.Example", "MultiSelectComboBox.Example\Sdl.MultiSelectComboBox.Example.csproj", "{3DAA07EA-D94E-495A-8A58-DE907ABE6990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sdl.MultiSelectComboBox.Example", "MultiSelectComboBox.Example\Sdl.MultiSelectComboBox.Example.csproj", "{3DAA07EA-D94E-495A-8A58-DE907ABE6990}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

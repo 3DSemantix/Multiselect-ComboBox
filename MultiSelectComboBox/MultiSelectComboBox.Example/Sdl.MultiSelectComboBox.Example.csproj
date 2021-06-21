@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFrameworks>net48;netcoreapp3.1</TargetFrameworks>
+    <TargetFrameworks>net472;netcoreapp3.1</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sdl.MultiSelectComboBox\Sdl.MultiSelectComboBox.csproj" />
+    <ProjectReference Include="..\Sdl.MultiSelectComboBox\Semantix.Sdl.MultiSelectComboBox.csproj" />
   </ItemGroup>
 
   <ItemGroup>
