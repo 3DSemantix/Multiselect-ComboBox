@@ -1,4 +1,4 @@
-﻿using Sdl.MultiSelectComboBox.API;
+﻿using Semantix.Sdl.MultiSelectComboBox.API;
 
 namespace Sdl.MultiSelectComboBox.Example.Models
 {

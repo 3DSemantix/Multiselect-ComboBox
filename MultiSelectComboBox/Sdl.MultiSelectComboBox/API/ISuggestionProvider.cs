@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Sdl.MultiSelectComboBox.API
+namespace Semantix.Sdl.MultiSelectComboBox.API
 {
     public interface ISuggestionProvider
     {

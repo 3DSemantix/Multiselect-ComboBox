@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
 
-namespace Sdl.MultiSelectComboBox.Services
+namespace Semantix.Sdl.MultiSelectComboBox.Services
 {
 	public class DropdownItemTemplateService : DataTemplateSelector
 	{

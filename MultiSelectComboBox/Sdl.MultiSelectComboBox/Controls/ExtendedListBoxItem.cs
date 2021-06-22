@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
 
-namespace Sdl.MultiSelectComboBox.Controls
+namespace Semantix.Sdl.MultiSelectComboBox.Controls
 {
 	public class ExtendedListBoxItem: ListBoxItem
 	{		

@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Media;
 
-namespace Sdl.MultiSelectComboBox.Services
+namespace Semantix.Sdl.MultiSelectComboBox.Services
 {
 	internal class VisualTreeService
 	{

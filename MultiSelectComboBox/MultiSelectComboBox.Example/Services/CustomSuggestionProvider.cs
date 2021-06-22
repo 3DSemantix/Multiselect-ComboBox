@@ -1,11 +1,11 @@
-﻿using Sdl.MultiSelectComboBox.API;
-using Sdl.MultiSelectComboBox.Example.Models;
+﻿using Sdl.MultiSelectComboBox.Example.Models;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using Semantix.Sdl.MultiSelectComboBox.API;
 
 namespace Sdl.MultiSelectComboBox.Example.Services
 {

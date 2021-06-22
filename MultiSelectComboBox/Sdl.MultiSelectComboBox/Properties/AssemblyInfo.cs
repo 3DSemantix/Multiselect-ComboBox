@@ -6,11 +6,11 @@ using System.Windows.Markup;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Sdl.MultiSelectComboBox")]
+[assembly: AssemblyTitle("Semantix.Sdl.MultiSelectComboBox")]
 [assembly: AssemblyDescription("WPF custom control with multiple item selection capabilities, customizable item grouping, sorting and filtering for the collection.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Sdl.MultiSelectComboBox")]
+[assembly: AssemblyProduct("Semantix.Sdl.MultiSelectComboBox")]
 [assembly: AssemblyCopyright("Copyright © SDL 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -54,9 +54,9 @@ using System.Windows.Markup;
 [assembly: AssemblyFileVersion("1.0.20.0")]
 
 [assembly: XmlnsPrefix("http://schemas.sdl.com/xaml", "sdl")]
-[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Sdl.MultiSelectComboBox.Themes.Generic")]
-[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Sdl.MultiSelectComboBox.API")]
-[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Sdl.MultiSelectComboBox.Behaviours")]
-[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Sdl.MultiSelectComboBox.Services")]
-[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Sdl.MultiSelectComboBox.EventArgs")]
-[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Sdl.MultiSelectComboBox.Controls")]
+[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Semantix.Sdl.MultiSelectComboBox.Themes.Generic")]
+[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Semantix.Sdl.MultiSelectComboBox.API")]
+[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Semantix.Sdl.MultiSelectComboBox.Behaviours")]
+[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Semantix.Sdl.MultiSelectComboBox.Services")]
+[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Semantix.Sdl.MultiSelectComboBox.EventArgs")]
+[assembly: XmlnsDefinition("http://schemas.sdl.com/xaml", "Semantix.Sdl.MultiSelectComboBox.Controls")]

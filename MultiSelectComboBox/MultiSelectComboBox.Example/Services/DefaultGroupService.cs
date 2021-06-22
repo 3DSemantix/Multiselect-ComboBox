@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Sdl.MultiSelectComboBox.API;
 using Sdl.MultiSelectComboBox.Example.API;
 using Sdl.MultiSelectComboBox.Example.Models;
+using Semantix.Sdl.MultiSelectComboBox.API;
 
 namespace Sdl.MultiSelectComboBox.Example.Services
 {

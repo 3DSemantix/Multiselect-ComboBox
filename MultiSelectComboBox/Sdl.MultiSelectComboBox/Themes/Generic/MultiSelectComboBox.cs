@@ -1,8 +1,4 @@
-﻿using Sdl.MultiSelectComboBox.API;
-using Sdl.MultiSelectComboBox.Controls;
-using Sdl.MultiSelectComboBox.EventArgs;
-using Sdl.MultiSelectComboBox.Services;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -16,8 +12,12 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Threading;
+using Semantix.Sdl.MultiSelectComboBox.API;
+using Semantix.Sdl.MultiSelectComboBox.Controls;
+using Semantix.Sdl.MultiSelectComboBox.EventArgs;
+using Semantix.Sdl.MultiSelectComboBox.Services;
 
-namespace Sdl.MultiSelectComboBox.Themes.Generic
+namespace Semantix.Sdl.MultiSelectComboBox.Themes.Generic
 {
 	[TemplatePart(Name = PART_MultiSelectComboBox, Type = typeof(Grid))]
 	[TemplatePart(Name = PART_MultiSelectComboBox_Dropdown, Type = typeof(Popup))]

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sdl.MultiSelectComboBox.API
+namespace Semantix.Sdl.MultiSelectComboBox.API
 {
 	/// <summary>
 	/// The filter service that is used to apply a custom filter on the items that are displayed

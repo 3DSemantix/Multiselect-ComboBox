@@ -1,7 +1,7 @@
 ﻿using System;
-using Sdl.MultiSelectComboBox.API;
+using Semantix.Sdl.MultiSelectComboBox.API;
 
-namespace Sdl.MultiSelectComboBox.Services
+namespace Semantix.Sdl.MultiSelectComboBox.Services
 {
 	public class DefaultFilterService: IFilterService
 	{

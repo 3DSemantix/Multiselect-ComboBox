@@ -1,4 +1,4 @@
-﻿namespace Sdl.MultiSelectComboBox.API
+﻿namespace Semantix.Sdl.MultiSelectComboBox.API
 {
 	/// <summary>
 	/// Identifies the name and order of the group header

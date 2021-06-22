@@ -1,9 +1,9 @@
 ﻿<ResourceDictionary
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:generic="clr-namespace:Sdl.MultiSelectComboBox.Themes.Generic"
-    xmlns:api="clr-namespace:Sdl.MultiSelectComboBox.API"
-    xmlns:controls="clr-namespace:Sdl.MultiSelectComboBox.Controls">
+    xmlns:controls="clr-namespace:Semantix.Sdl.MultiSelectComboBox.Controls"
+    xmlns:generic="clr-namespace:Semantix.Sdl.MultiSelectComboBox.Themes.Generic"
+    xmlns:api="clr-namespace:Semantix.Sdl.MultiSelectComboBox.API">
 
     <SolidColorBrush x:Key="MultiSelectComboBox.DropDown.Button.Background" Color="Transparent"/>
     <SolidColorBrush x:Key="MultiSelectComboBox.DropDown.Button.Border" Color="#FF707070"/>

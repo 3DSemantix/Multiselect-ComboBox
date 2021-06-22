@@ -2,12 +2,27 @@
 
   <PropertyGroup>
     <TargetFrameworks>net472;netcoreapp3.1</TargetFrameworks>
-    <Version>1.0.37</Version>
+    <Version>1.0.37.3</Version>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWPF>true</UseWPF>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>SdlCommunity.snk</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
 
 </Project>

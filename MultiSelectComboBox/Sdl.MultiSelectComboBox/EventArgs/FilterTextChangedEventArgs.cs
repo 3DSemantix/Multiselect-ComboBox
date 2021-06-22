@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Windows;
 
-namespace Sdl.MultiSelectComboBox.EventArgs
+namespace Semantix.Sdl.MultiSelectComboBox.EventArgs
 {
 	/// <summary>
 	/// Raised when the filter criteria has changed

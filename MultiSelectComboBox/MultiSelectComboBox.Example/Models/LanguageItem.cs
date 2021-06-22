@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Globalization;
 using System.Runtime.CompilerServices;
 using System.Windows.Media.Imaging;
-using Sdl.MultiSelectComboBox.API;
+using Semantix.Sdl.MultiSelectComboBox.API;
 
 namespace Sdl.MultiSelectComboBox.Example.Models
 {

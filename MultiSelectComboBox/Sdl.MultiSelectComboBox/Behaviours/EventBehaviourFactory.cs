@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Input;
 
-namespace Sdl.MultiSelectComboBox.Behaviours
+namespace Semantix.Sdl.MultiSelectComboBox.Behaviours
 {
 	public static class EventBehaviourFactory
 	{

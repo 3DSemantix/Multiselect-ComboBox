@@ -2,8 +2,8 @@
 using System.Collections;
 using System.Linq;
 using System.Windows.Input;
-using Sdl.MultiSelectComboBox.EventArgs;
 using Sdl.MultiSelectComboBox.Example.Models;
+using Semantix.Sdl.MultiSelectComboBox.EventArgs;
 
 namespace Sdl.MultiSelectComboBox.Example.Commands
 {

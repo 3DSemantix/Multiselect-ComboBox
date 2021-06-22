@@ -7,9 +7,9 @@ using System.Globalization;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Windows.Input;
-using Sdl.MultiSelectComboBox.API;
 using Sdl.MultiSelectComboBox.Example.Commands;
 using Sdl.MultiSelectComboBox.Example.Services;
+using Semantix.Sdl.MultiSelectComboBox.API;
 using Size = System.Drawing.Size;
 
 namespace Sdl.MultiSelectComboBox.Example.Models
